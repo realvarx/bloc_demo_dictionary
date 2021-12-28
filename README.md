@@ -6,4 +6,4 @@ This is a non-profit project and all rights of the search results are reserved t
 
 ## Getting Started
 
-<img src="/demo%20images%20and%20videos/demo%20video.gif" width="200" height="500"/>
+<img src="/demo%20images%20and%20videos/demo%20video.gif" width="200" height="450"/>
